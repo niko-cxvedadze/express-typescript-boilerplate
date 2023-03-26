@@ -47,27 +47,6 @@
     7.  Start the production server:
     `npm start`
     
-## Folder Structure
-|-- src
-|   |-- controllers
-|   |   |-- example.controller.ts
-|   |-- database
-|   |   |-- example.database.ts
-|   |-- services
-|   |   |-- example.service.ts
-|   |-- middlewares
-|   |   |-- example.middleware.ts
-|   |-- routes
-|   |   |-- example.router.ts
-|   |-- utils
-|   |   |-- example.util.ts
-|   |-- index.ts
-|-- .env.test
-|-- .gitignore
-|-- nodemon.json
-|-- package.json
-|-- tsconfig.json
-|-- README.md
 
 ## Contributing
 
