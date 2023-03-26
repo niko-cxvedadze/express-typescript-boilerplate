@@ -6,7 +6,8 @@ import {
   validate_post_user,
   validate_put_user,
 } from "@src/validations/user.validations";
-import { validate_request } from "@src/utils/validate.request";
+
+import { validate_request } from "@src/middlewares/validate.request";
 
 export const user_router = express.Router();
 
