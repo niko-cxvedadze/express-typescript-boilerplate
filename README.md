@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-### DevDependencies
+#### DevDependencies
 
 -   `@types/cors`: TypeScript definitions for the CORS package
 -   `@types/express`: TypeScript definitions for the Express package
